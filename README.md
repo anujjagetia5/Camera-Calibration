@@ -1,4 +1,4 @@
-# CameraCalib-AutoCalib:
+# Camera Calibration:
 
 ## Overview
 
@@ -42,7 +42,7 @@ pip install numpy opencv-python scipy
 * Clone the repository:
 ```bash
 git clone https://github.com/anujjagetia5/Camera-Calibration.git
-cd Camera-Calibration
+cd Camera-Calibration-main
 ```
 
 * Place your calibration images in the `Calibration_Imgs` folder. Ensure the images contain a visible checkerboard pattern with 9x6 inner corners.
